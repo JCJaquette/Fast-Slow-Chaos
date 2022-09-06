@@ -4,7 +4,7 @@ This repository includes scientific code used in the paper
 "Reliability and robustness of oscillations in some slow-fast chaotic systems" 
 by Jonathan Jaquette, Sonal Kedia, Evelyn Sander, & Jonathan D. Touboul. 
 
-Last Modified September 6, 2022
+Last modified September 6, 2022
 
 The majority of code is written in MATLAB. Some files use Mathematica. 
 
