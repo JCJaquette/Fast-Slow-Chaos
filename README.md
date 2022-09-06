@@ -1,4 +1,4 @@
-# Fast-Slow-Chaos
+# Slow-Fast-Chaos
 
 This repository includes scientific code used in the paper 
 "Reliability and robustness of oscillations in some slow-fast chaotic systems" 
